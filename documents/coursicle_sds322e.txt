@@ -1,0 +1,26 @@
+Course: SDS 322E - Elements of Data Science
+
+Course Description:
+
+Introduction to data science concepts, tools, and workflows.
+
+Topics:
+
+- Data cleaning
+- Data visualization
+- Exploratory data analysis
+- Python programming
+- Data ethics
+- Communication of results
+
+Student Notes:
+
+Students describe this course as beginner-friendly and practical. Assignments focus on real datasets and emphasize reproducible analysis.
+
+Skills Developed:
+
+- Python programming
+- Data wrangling
+- Visualization
+- Exploratory analysis
+- Communication skills

@@ -1,0 +1,40 @@
+Course: Advanced Predictive Models (DSC 383)
+
+Review 1
+
+Rating: 4
+Difficulty: 4
+Professor: 5
+Workload: 5 hours per week
+
+Pros:
+- Cool material not seen elsewhere
+- Easy A
+- Professors are active on Ed discussion boards
+
+Cons:
+- Lots of self-study required
+- Course organization was poor
+- Assignment expectations were unclear
+
+Detailed Review:
+The reviewer felt the course had interesting material and helpful professors. However, the class required significant self-study. Communication on discussion boards was sometimes slow and there were not enough teaching assistants available. Assignments included both peer-graded and staff-graded work.
+
+--------------------------------------------------
+
+Review 2
+
+Rating: 2
+Difficulty: 1
+Workload: 2 hours per week
+
+Pros:
+- Easy A
+
+Cons:
+- First half of the course felt useless
+- Too many manual calculations
+- Quiz grading was frustrating
+
+Detailed Review:
+The reviewer felt the course did not teach enough predictive modeling. They believed too much time was spent on spatial modeling and matrix calculations that were already covered elsewhere in the program. The reviewer recommended redesigning the course.

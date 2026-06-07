@@ -1,0 +1,25 @@
+Course: SDS 313 - Elementary Statistical Methods
+
+Course Description:
+
+Introduction to statistical reasoning and data analysis.
+
+Topics:
+
+- Descriptive statistics
+- Probability
+- Hypothesis testing
+- Confidence intervals
+- Regression basics
+- Statistical inference
+
+Student Notes:
+
+Students report that the course provides a strong foundation in statistics. Understanding probability concepts is important for success. Regular practice with statistical problems improves performance.
+
+Skills Developed:
+
+- Data interpretation
+- Statistical analysis
+- Quantitative reasoning
+- Basic regression analysis

@@ -1,0 +1,29 @@
+Thread: Which MSDS courses are the hardest?
+
+Student A:
+
+Deep Learning was the most difficult course I took because of the mathematical concepts and project requirements.
+
+Student B:
+
+Advanced Predictive Models required significant effort and independent study.
+
+Student C:
+
+Machine Learning was challenging but manageable with consistent work.
+
+Student D:
+
+Difficulty often depends on your background in statistics and programming.
+
+Student E:
+
+Students with Python experience generally find technical assignments easier.
+
+Common Themes:
+
+- Deep Learning is frequently considered difficult.
+- Statistics-heavy courses challenge many students.
+- Prior Python experience helps.
+- Consistent study reduces difficulty.
+- Background knowledge strongly affects course experience.
