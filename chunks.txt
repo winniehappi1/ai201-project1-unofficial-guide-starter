@@ -1,0 +1,395 @@
+Source: reddit_workload.txt
+Thread: How much time does the UT Austin MSDS program require each week?
+
+Student A:
+
+For most courses, I spend between 10 and 15 hours per week. During project-heavy weeks, that can increase to 20 hours or more.
+
+Student B:
+
+The workload depends heavily on the class. Foundations courses usually require less time than advanced machine learning or deep learning electives.
+
+Student C:
+
+Students working full-time should plan ahead. Deadlines can pile up quickly if you fall behind on lectures.
+
+Student D:
+
+Most assignments are manageable if you keep up with weekly material. Waiting until the weekend often creates unnecessary stress.
+
+Student E:
+
+Group projects can significantly increase workload because coordinating schedules with teammates takes additional time.
+
+Common Themes:
+
+- Typical wor
+
+==========
+
+Source: reddit_workload.txt
+Group projects can significantly increase workload because coordinating schedules with teammates takes additional time.
+
+Common Themes:
+
+- Typical workload ranges from 10–20 hours weekly.
+- Advanced courses require more effort.
+- Group projects increase time commitment.
+- Consistent weekly study habits reduce stress.
+- Falling behind can make courses feel overwhelming.
+
+==========
+
+Source: reddit_difficulty.txt
+Thread: Which MSDS courses are the hardest?
+
+Student A:
+
+Deep Learning was the most difficult course I took because of the mathematical concepts and project requirements.
+
+Student B:
+
+Advanced Predictive Models required significant effort and independent study.
+
+Student C:
+
+Machine Learning was challenging but manageable with consistent work.
+
+Student D:
+
+Difficulty often depends on your background in statistics and programming.
+
+Student E:
+
+Students with Python experience generally find technical assignments easier.
+
+Common Themes:
+
+- Deep Learning is frequently considered difficult.
+- Statistics-heavy courses challenge many students.
+- Prior Python experience helps.
+- Consistent study reduces difficulty.
+- Background knowledge strongly affects course experience.
+
+==========
+
+Source: reddit_difficulty.txt
+r Python experience helps.
+- Consistent study reduces difficulty.
+- Background knowledge strongly affects course experience.
+
+==========
+
+Source: coursicle_sds313.txt
+Course: SDS 313 - Elementary Statistical Methods
+
+Course Description:
+
+Introduction to statistical reasoning and data analysis.
+
+Topics:
+
+- Descriptive statistics
+- Probability
+- Hypothesis testing
+- Confidence intervals
+- Regression basics
+- Statistical inference
+
+Student Notes:
+
+Students report that the course provides a strong foundation in statistics. Understanding probability concepts is important for success. Regular practice with statistical problems improves performance.
+
+Skills Developed:
+
+- Data interpretation
+- Statistical analysis
+- Quantitative reasoning
+- Basic regression analysis
+
+==========
+
+Source: reddit_admissions.txt
+Thread: Admissions advice for UT Austin MSDS applicants
+
+Applicant A:
+
+My application emphasized professional experience and quantitative coursework.
+
+Applicant B:
+
+Strong grades in math and programming courses helped my application.
+
+Applicant C:
+
+The statement of purpose should clearly explain career goals and motivation.
+
+Applicant D:
+
+Previous experience with Python, statistics, or data analysis strengthens an application.
+
+Applicant E:
+
+Admissions appears to evaluate applicants holistically rather than focusing on a single metric.
+
+Common Themes:
+
+- Quantitative coursework is important.
+- Programming experience is beneficial.
+- A strong statement of purpose matters.
+- Professional experience can strengthen an application.
+- Applicants come from diverse backgrounds.
+
+==========
+
+Source: reddit_admissions.txt
+statement of purpose matters.
+- Professional experience can strengthen an application.
+- Applicants come from diverse backgrounds.
+
+==========
+
+Source: reddit_professors.txt
+Thread: How are the professors in the UT Austin MSDS program?
+
+Student A:
+
+I've had mostly positive experiences with professors in the MSDS program. Since the program is online, you should not expect the same level of interaction as a small in-person graduate class. Most communication happens through Ed Discussion, office hours, and teaching assistants. The professors generally seem knowledgeable and responsive when major issues arise.
+
+Student B:
+
+The quality of instruction varies by course. Some professors provide excellent lecture videos and detailed assignment explanations, while others rely more heavily on self-study. I found that courses with active office hours felt much more engaging and easier to follow.
+
+Student C:
+
+Teaching assistants are extremely important in the program. In s
+
+==========
+
+Source: reddit_professors.txt
+s with active office hours felt much more engaging and easier to follow.
+
+Student C:
+
+Teaching assistants are extremely important in the program. In some classes, TAs answer questions faster than professors and become the primary source of support. Students who attend office hours regularly usually have a better experience.
+
+Student D:
+
+Most professors are experts in their field and present high-quality course material. However, because the classes are asynchronous, students need to be proactive about asking questions and seeking help when they are confused.
+
+Student E:
+
+Professor responsiveness is one of the biggest factors affecting course satisfaction. Courses where instructors participate frequently on discussion boards tend to receive better reviews from students.
+
+Common Themes:
+
+* P
+
+==========
+
+Source: reddit_professors.txt
+satisfaction. Courses where instructors participate frequently on discussion boards tend to receive better reviews from students.
+
+Common Themes:
+
+* Professors are generally knowledgeable and experienced.
+* Most interaction occurs through online discussion boards and office hours.
+* Teaching assistants play a major role in student support.
+* Instructor responsiveness strongly affects student satisfaction.
+* Students should expect a significant amount of independent learning.
+* Courses with active professor participation are viewed more positively.
+
+Summary:
+
+Students generally report positive experiences with professors in the UT Austin MSDS program, although the level of interaction depends on the course. Most communication occurs through online platforms, office hours, and teaching assis
+
+==========
+
+Source: reddit_professors.txt
+program, although the level of interaction depends on the course. Most communication occurs through online platforms, office hours, and teaching assistants. Students who actively participate in discussions and seek help tend to have better experiences than those who rely solely on recorded lectures.
+
+==========
+
+Source: ut_msds_overview.txt
+Take Your Career to the Next Level
+Data science is expected to remain among the fastest growing fields, with applications expanding across academia, government, healthcare, industry, and the nonprofit sector3. As demand for skilled practitioners increases, the online MSDS program at UT Austin offers a rigorous pathway to build both the technical capacity and the statistical credibility that modern data roles require. Our program provides the complete foundation you need to thrive in today's complex data environments. You'll master computational tools, scalable algorithms, and automation techniques, while developing rigorous standards of statistical practice, ensuring that your insights meet the evidentiary standards executives, regulators, and stakeholders trust. Data science depends on bo
+
+==========
+
+Source: ut_msds_overview.txt
+stical practice, ensuring that your insights meet the evidentiary standards executives, regulators, and stakeholders trust. Data science depends on both capacity and credibility. Capacity lets you build and deploy, and credibility makes people trust what you build. Offered jointly by UT Austin’s Department of Statistics and Data Sciences and the Department of Computer Science, this program ensures you graduate with the complete skill set the field demands.
+
+==========
+
+Source: reddit_course_reviews.txt
+Thread: Favorite courses in the UT Austin MSDS program
+
+Student A:
+
+Machine Learning was my favorite course because it combined theory with practical applications.
+
+Student B:
+
+Data Visualization was extremely useful and immediately applicable to my job.
+
+Student C:
+
+Deep Learning was challenging but rewarding. It required significant effort but provided valuable skills.
+
+Student D:
+
+Predictive Models helped build a strong statistical foundation.
+
+Student E:
+
+I enjoyed courses that included real-world projects more than purely theoretical classes.
+
+Common Themes:
+
+- Machine Learning is highly popular.
+- Data Visualization is practical.
+- Deep Learning is difficult but valuable.
+- Students appreciate project-based learning.
+- Foundations courses prepare students for advanced work.
+
+==========
+
+Source: reddit_course_reviews.txt
+ Learning is difficult but valuable.
+- Students appreciate project-based learning.
+- Foundations courses prepare students for advanced work.
+
+==========
+
+Source: reddit_fulltime_job.txt
+Thread: Can you complete the UT Austin MSDS while working full-time?
+
+Student A:
+
+I completed the program while working a 40-hour-per-week job. Time management was critical.
+
+Student B:
+
+Taking one course per semester felt manageable. Two courses while working full-time became difficult.
+
+Student C:
+
+The flexibility of recorded lectures makes the program accessible for working professionals.
+
+Student D:
+
+I usually watched lectures after work and completed assignments on weekends.
+
+Student E:
+
+Students with family responsibilities should carefully choose course loads.
+
+Common Themes:
+
+- Many students successfully work full-time.
+- One course per semester is often recommended.
+- Recorded lectures provide flexibility.
+- Time management is essential.
+- Work-life-school balance can be challengi
+
+==========
+
+Source: reddit_fulltime_job.txt
+er semester is often recommended.
+- Recorded lectures provide flexibility.
+- Time management is essential.
+- Work-life-school balance can be challenging.
+
+==========
+
+Source: coursicle_sds322e.txt
+Course: SDS 322E - Elements of Data Science
+
+Course Description:
+
+Introduction to data science concepts, tools, and workflows.
+
+Topics:
+
+- Data cleaning
+- Data visualization
+- Exploratory data analysis
+- Python programming
+- Data ethics
+- Communication of results
+
+Student Notes:
+
+Students describe this course as beginner-friendly and practical. Assignments focus on real datasets and emphasize reproducible analysis.
+
+Skills Developed:
+
+- Python programming
+- Data wrangling
+- Visualization
+- Exploratory analysis
+- Communication skills
+
+==========
+
+Source: msds_hub.txt
+Course: Advanced Predictive Models (DSC 383)
+
+Review 1
+
+Rating: 4
+Difficulty: 4
+Professor: 5
+Workload: 5 hours per week
+
+Pros:
+- Cool material not seen elsewhere
+- Easy A
+- Professors are active on Ed discussion boards
+
+Cons:
+- Lots of self-study required
+- Course organization was poor
+- Assignment expectations were unclear
+
+Detailed Review:
+The reviewer felt the course had interesting material and helpful professors. However, the class required significant self-study. Communication on discussion boards was sometimes slow and there were not enough teaching assistants available. Assignments included both peer-graded and staff-graded work.
+
+--------------------------------------------------
+
+Review 2
+
+Rating: 2
+Difficulty: 1
+Workload: 2 hours per week
+
+Pros:
+- Easy A
+
+Cons:
+- First half of t
+
+==========
+
+Source: msds_hub.txt
+-----------------------------------------------
+
+Review 2
+
+Rating: 2
+Difficulty: 1
+Workload: 2 hours per week
+
+Pros:
+- Easy A
+
+Cons:
+- First half of the course felt useless
+- Too many manual calculations
+- Quiz grading was frustrating
+
+Detailed Review:
+The reviewer felt the course did not teach enough predictive modeling. They believed too much time was spent on spatial modeling and matrix calculations that were already covered elsewhere in the program. The reviewer recommended redesigning the course.
+
+==========
+

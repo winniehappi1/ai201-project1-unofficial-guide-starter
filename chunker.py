@@ -59,6 +59,15 @@ if __name__ == "__main__":
 
     print(f"Created {len(chunks)} chunks")
 
+    # Save chunks for Milestone 4
+    with open("chunks.txt", "w", encoding="utf-8") as f:
+        for chunk in chunks:
+            f.write(f"Source: {chunk['source']}\n")
+            f.write(chunk["text"])
+            f.write("\n\n==========\n\n")
+
+    print("Saved chunks to chunks.txt")
+
     print("\nSample chunks:\n")
 
     for chunk in chunks[:5]:
