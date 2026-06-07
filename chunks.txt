@@ -1,4 +1,6 @@
 Source: reddit_workload.txt
+Title: reddit workload
+
 Thread: How much time does the UT Austin MSDS program require each week?
 
 Student A:
@@ -23,14 +25,18 @@ Group projects can significantly increase workload because coordinating schedule
 
 Common Themes:
 
-- Typical wor
-
 ==========
 
 Source: reddit_workload.txt
+Title: reddit workload
+
+Student E:
+
 Group projects can significantly increase workload because coordinating schedules with teammates takes additional time.
 
 Common Themes:
+
+
 
 - Typical workload ranges from 10–20 hours weekly.
 - Advanced courses require more effort.
@@ -41,6 +47,8 @@ Common Themes:
 ==========
 
 Source: reddit_difficulty.txt
+Title: reddit difficulty
+
 Thread: Which MSDS courses are the hardest?
 
 Student A:
@@ -73,14 +81,9 @@ Common Themes:
 
 ==========
 
-Source: reddit_difficulty.txt
-r Python experience helps.
-- Consistent study reduces difficulty.
-- Background knowledge strongly affects course experience.
-
-==========
-
 Source: coursicle_sds313.txt
+Title: coursicle sds313
+
 Course: SDS 313 - Elementary Statistical Methods
 
 Course Description:
@@ -110,6 +113,8 @@ Skills Developed:
 ==========
 
 Source: reddit_admissions.txt
+Title: reddit admissions
+
 Thread: Admissions advice for UT Austin MSDS applicants
 
 Applicant A:
@@ -142,14 +147,9 @@ Common Themes:
 
 ==========
 
-Source: reddit_admissions.txt
-statement of purpose matters.
-- Professional experience can strengthen an application.
-- Applicants come from diverse backgrounds.
-
-==========
-
 Source: reddit_professors.txt
+Title: reddit professors
+
 Thread: How are the professors in the UT Austin MSDS program?
 
 Student A:
@@ -162,14 +162,16 @@ The quality of instruction varies by course. Some professors provide excellent l
 
 Student C:
 
-Teaching assistants are extremely important in the program. In s
-
 ==========
 
 Source: reddit_professors.txt
-s with active office hours felt much more engaging and easier to follow.
+Title: reddit professors
+
+hile others rely more heavily on self-study. I found that courses with active office hours felt much more engaging and easier to follow.
 
 Student C:
+
+
 
 Teaching assistants are extremely important in the program. In some classes, TAs answer questions faster than professors and become the primary source of support. Students who attend office hours regularly usually have a better experience.
 
@@ -179,16 +181,18 @@ Most professors are experts in their field and present high-quality course mater
 
 Student E:
 
-Professor responsiveness is one of the biggest factors affecting course satisfaction. Courses where instructors participate frequently on discussion boards tend to receive better reviews from students.
-
-Common Themes:
-
-* P
-
 ==========
 
 Source: reddit_professors.txt
-satisfaction. Courses where instructors participate frequently on discussion boards tend to receive better reviews from students.
+Title: reddit professors
+
+ver, because the classes are asynchronous, students need to be proactive about asking questions and seeking help when they are confused.
+
+Student E:
+
+
+
+Professor responsiveness is one of the biggest factors affecting course satisfaction. Courses where instructors participate frequently on discussion boards tend to receive better reviews from students.
 
 Common Themes:
 
@@ -201,27 +205,33 @@ Common Themes:
 
 Summary:
 
-Students generally report positive experiences with professors in the UT Austin MSDS program, although the level of interaction depends on the course. Most communication occurs through online platforms, office hours, and teaching assis
-
 ==========
 
 Source: reddit_professors.txt
-program, although the level of interaction depends on the course. Most communication occurs through online platforms, office hours, and teaching assistants. Students who actively participate in discussions and seek help tend to have better experiences than those who rely solely on recorded lectures.
+Title: reddit professors
+
+ents should expect a significant amount of independent learning.
+* Courses with active professor participation are viewed more positively.
+
+Summary:
+
+
+
+Students generally report positive experiences with professors in the UT Austin MSDS program, although the level of interaction depends on the course. Most communication occurs through online platforms, office hours, and teaching assistants. Students who actively participate in discussions and seek help tend to have better experiences than those who rely solely on recorded lectures.
 
 ==========
 
 Source: ut_msds_overview.txt
+Title: ut msds overview
+
 Take Your Career to the Next Level
-Data science is expected to remain among the fastest growing fields, with applications expanding across academia, government, healthcare, industry, and the nonprofit sector3. As demand for skilled practitioners increases, the online MSDS program at UT Austin offers a rigorous pathway to build both the technical capacity and the statistical credibility that modern data roles require. Our program provides the complete foundation you need to thrive in today's complex data environments. You'll master computational tools, scalable algorithms, and automation techniques, while developing rigorous standards of statistical practice, ensuring that your insights meet the evidentiary standards executives, regulators, and stakeholders trust. Data science depends on bo
-
-==========
-
-Source: ut_msds_overview.txt
-stical practice, ensuring that your insights meet the evidentiary standards executives, regulators, and stakeholders trust. Data science depends on both capacity and credibility. Capacity lets you build and deploy, and credibility makes people trust what you build. Offered jointly by UT Austin’s Department of Statistics and Data Sciences and the Department of Computer Science, this program ensures you graduate with the complete skill set the field demands.
+Data science is expected to remain among the fastest growing fields, with applications expanding across academia, government, healthcare, industry, and the nonprofit sector3. As demand for skilled practitioners increases, the online MSDS program at UT Austin offers a rigorous pathway to build both the technical capacity and the statistical credibility that modern data roles require. Our program provides the complete foundation you need to thrive in today's complex data environments. You'll master computational tools, scalable algorithms, and automation techniques, while developing rigorous standards of statistical practice, ensuring that your insights meet the evidentiary standards executives, regulators, and stakeholders trust. Data science depends on both capacity and credibility. Capacity lets you build and deploy, and credibility makes people trust what you build. Offered jointly by UT Austin’s Department of Statistics and Data Sciences and the Department of Computer Science, this program ensures you graduate with the complete skill set the field demands.
 
 ==========
 
 Source: reddit_course_reviews.txt
+Title: reddit course reviews
+
 Thread: Favorite courses in the UT Austin MSDS program
 
 Student A:
@@ -254,14 +264,9 @@ Common Themes:
 
 ==========
 
-Source: reddit_course_reviews.txt
- Learning is difficult but valuable.
-- Students appreciate project-based learning.
-- Foundations courses prepare students for advanced work.
-
-==========
-
 Source: reddit_fulltime_job.txt
+Title: reddit fulltime job
+
 Thread: Can you complete the UT Austin MSDS while working full-time?
 
 Student A:
@@ -286,16 +291,23 @@ Students with family responsibilities should carefully choose course loads.
 
 Common Themes:
 
-- Many students successfully work full-time.
-- One course per semester is often recommended.
-- Recorded lectures provide flexibility.
-- Time management is essential.
-- Work-life-school balance can be challengi
-
 ==========
 
 Source: reddit_fulltime_job.txt
-er semester is often recommended.
+Title: reddit fulltime job
+
+work and completed assignments on weekends.
+
+Student E:
+
+Students with family responsibilities should carefully choose course loads.
+
+Common Themes:
+
+
+
+- Many students successfully work full-time.
+- One course per semester is often recommended.
 - Recorded lectures provide flexibility.
 - Time management is essential.
 - Work-life-school balance can be challenging.
@@ -303,6 +315,8 @@ er semester is often recommended.
 ==========
 
 Source: coursicle_sds322e.txt
+Title: coursicle sds322e
+
 Course: SDS 322E - Elements of Data Science
 
 Course Description:
@@ -333,6 +347,8 @@ Skills Developed:
 ==========
 
 Source: msds_hub.txt
+Title: msds hub
+
 Course: Advanced Predictive Models (DSC 383)
 
 Review 1
@@ -366,13 +382,14 @@ Workload: 2 hours per week
 Pros:
 - Easy A
 
-Cons:
-- First half of t
-
 ==========
 
 Source: msds_hub.txt
------------------------------------------------
+Title: msds hub
+
+staff-graded work.
+
+--------------------------------------------------
 
 Review 2
 
@@ -382,6 +399,8 @@ Workload: 2 hours per week
 
 Pros:
 - Easy A
+
+
 
 Cons:
 - First half of the course felt useless

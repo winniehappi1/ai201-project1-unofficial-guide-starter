@@ -1,28 +1,43 @@
+import shutil
+from pathlib import Path
 from sentence_transformers import SentenceTransformer
 import chromadb
 
-# Load embedding model
+
+DB_PATH = "chroma_db"
+COLLECTION_NAME = "msds_reviews"
+
+if Path(DB_PATH).exists():
+    shutil.rmtree(DB_PATH)
+
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-# Read chunks from file
 with open("chunks.txt", "r", encoding="utf-8") as f:
-    text = f.read()
+    raw_text = f.read()
 
-chunks = text.split("\n\n==========\n\n")
+chunks = [
+    chunk.strip()
+    for chunk in raw_text.split("\n\n==========\n\n")
+    if chunk.strip()
+]
 
-# Create ChromaDB database
-client = chromadb.PersistentClient(path="chroma_db")
-collection = client.get_or_create_collection("msds_reviews")
+client = chromadb.PersistentClient(path=DB_PATH)
+collection = client.get_or_create_collection(COLLECTION_NAME)
 
-# Add chunks
 for i, chunk in enumerate(chunks):
     embedding = model.encode(chunk).tolist()
+
+    source = "unknown"
+    for line in chunk.splitlines():
+        if line.startswith("Source:"):
+            source = line.replace("Source:", "").strip()
+            break
 
     collection.add(
         ids=[str(i)],
         embeddings=[embedding],
         documents=[chunk],
-        metadatas=[{"chunk_id": i}]
+        metadatas=[{"chunk_id": i, "source": source}]
     )
 
 print(f"Stored {len(chunks)} chunks in ChromaDB")
