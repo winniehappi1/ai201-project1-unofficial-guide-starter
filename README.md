@@ -347,3 +347,16 @@ My original chunking approach used fixed character chunks, but I later improved 
 * *What I gave the AI:* I gave the AI my Milestone 4 and Milestone 5 requirements.
 * *What it produced:* It helped create `embed_store.py`, `retrieval_test.py`, `query.py`, and `app.py`.
 * *What I changed or overrode:* I tested the retrieval results myself, improved chunking when retrieval was not ideal, and updated the Gradio app to look cleaner and be easier to use in a demo.
+
+---
+
+## Demo Video
+
+[Watch the demo video on Loom](https://www.loom.com/share/cff9a88855684b3a9537ecec1c82e149)
+
+The video demonstrates:
+- The Gradio query interface
+- Retrieval and grounded generation
+- Multiple successful queries
+- A documented failure case
+- Evaluation results and project reflection
